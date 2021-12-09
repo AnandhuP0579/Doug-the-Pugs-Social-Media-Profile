@@ -1,0 +1,41 @@
+div {
+    border: 1px solid #4169e1;
+    font-family: 'Lobster', cursive;
+}
+
+.navBar {
+    display: flex;
+    justify-content: space-around;
+    color: #4169e1;
+}
+
+.Name {
+    color: #8000ff;
+}
+
+img {
+    width: 200px;
+    border: 6px solid #3EB489;
+}
+
+.pic {
+    border-radius: 50%;
+    width: 300px;
+    align-items: center;
+}
+
+body {
+    background-color: #d7d8cc;
+}
+
+.aboutMe {
+    color: #00ced1;
+}
+
+.posts {
+    color: #008080;
+}
+
+.friendsList {
+    color: #ffb6c1;
+}
